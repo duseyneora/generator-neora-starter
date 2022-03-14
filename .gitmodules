@@ -1,0 +1,6 @@
+[submodule "templates"]
+	path = templates
+	url = https://github.com/duseyneora/neora-starter
+[submodule "generators/app/templates"]
+	path = generators/app/templates
+	url = https://github.com/duseyneora/neora-starter
